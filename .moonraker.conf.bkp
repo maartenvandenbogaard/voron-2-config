@@ -37,11 +37,6 @@ subscriptions =
 [update_manager]
 enable_auto_refresh = True
 
-[update_manager client fluidd]
-type = web
-repo = fluidd-core/fluidd
-path = ~/fluidd
-
 [update_manager KlipperScreen]
 type = git_repo
 path = ~/KlipperScreen
